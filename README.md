@@ -12,7 +12,8 @@
 ### Craft : 
 - le loot rouge :
   - permetttra après 3 récupération d'augmenter les dégats des armes de corps a corps 
-  - permettra après 5 récupération d'avoir l'armes de sa classe
+  - permettra après 5 récupération d'avoir l'armes a feu de sa classe
+  - permettra après 10 récupération permet d'avoir une amélioration de l'arme a feu 
 - le loot ourange permet le craft de grenade lier a la classe ou munition
 - le loot bleu c'est pour craft des kit de d'armure utilisable avec une touche
 - le loot vert c'est pour craft des kit de soins utilisable avec une touche
