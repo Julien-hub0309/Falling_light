@@ -1,4 +1,3 @@
-"""classe_3.py - SNIPER : DRS-50 + 2 fumigènes. Clic droit = lunette."""
 from armes import sniper, pistolet
 
 CLASSE = dict(nom='SNIPER', description='DRS-50 (lunette)\n2 fumigenes\nLongue portee',

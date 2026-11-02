@@ -1,4 +1,3 @@
-"""classe_2.py - TACTIC : Kriss Vector + 2 grenades. Rapide, fragile."""
 from armes import smg, pistolet
 
 CLASSE = dict(nom='TACTIC', description='Kriss Vector\n2 grenades\nRapide (+10%)',

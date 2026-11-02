@@ -131,8 +131,11 @@ class Player(Pilote):
                     self.vy, self.grounded = 7 if titan else 9, False
             elif self.wallrunning:
                 self.vy = 9
-                self.vel = self.vel + self.wall_n * 9 + Vec3(self.forward.x, 0, self.forward.z) * 3
-                self.wall_n = None
+                if self.wall_n is not None:
+                    self.vel += self.wall_n * 9
+                    self.vel += Vec3(self.forward.x, 0, self.forward.z) * 3
+                    self.wall_n = None
+                    self.wallrunning = False
             elif not titan:
                 if not self.tente_grimper() and self.jumps > 0:
                     self.vy, self.jumps = 8, self.jumps - 1

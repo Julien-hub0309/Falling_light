@@ -1,4 +1,3 @@
-"""classe_4.py - BRECHE : fusil à pompe + grenade + fumigène. Résistant, lent."""
 from armes import shotgun, pistolet
 
 CLASSE = dict(nom='BRECHE', description='Fusil a pompe\nResistant (120 PV)\nLent (-8%)',
