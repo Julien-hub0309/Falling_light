@@ -20,4 +20,12 @@
 
 ### Armes et classe : 
 - Choisir la classe au début pour les compétences de départ et armes disponible
-- Ouverture de la game avec que le couteau en arme de corps a corps 
+- Ouverture de la game avec que le couteau en arme de corps a corps
+
+### Zombie normal + spéciaux : 
+- Jour :
+  - Zombie en majorité faible, les armes a feu produise du bruit qui attire les zombie spéciaux
+  - Zombie normal 150% de vie 80% de vitesse en groupe de 3 ou 4 pour 40 zombie dans une partie de jour
+- Nuit :
+  - Zombie en majorité fort, les armes a feu produise du bruit qui attire les rapaces
+  - Zombie spéciaux 170% de vie, 100% de vitesse en groupe de 2 ou 3 et 30 dans une partie de nuit 
