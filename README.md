@@ -14,10 +14,21 @@
   - Zombie normal 150% de vie 80% de vitesse en groupe de 3 ou 4 pour 40 zombie dans une partie de jour
 - Nuit :
   - Zombie en majorité fort, les armes a feu produise du bruit qui attire les rapaces
-  - Zombie spéciaux 170% de vie, 100% de vitesse en groupe de 2 ou 3 et 30 dans une partie de nuit 
+  - Zombie spéciaux 170% de vie, 100% de vitesse en groupe de 2 ou 3 et 30 dans une partie de nuit
+  - Zombie géant 220% de vie, 80% de vitesse, 5 dans une partie
+ 
+### Pilot et titan : 
+- Conservation de la vitesse du pilot ( course + glissade )
+- Donner des ordres simple au titan quand pas embarquée
+- Corps a corps titan epee a la place de couteau 
 
-## arbre des classe
-### assaut
+### Mode de jeu : 
+- Parcoups : 0 armes, que le couteau et on dois passer par des points sur l amap dans un temps impartie avec les zombie qui nous fonce dessus
+- Point de contrôle : rester a un point précis sur la map pendant un temps donner ( 30 seconde ) pour 10 point + tuer des zombie pour 1 point 
+
+### arbre de craft des classes
+
+#### assaut
 - starter assaut
 	- general assaut 
 		- reinforce general assaut 
@@ -34,7 +45,8 @@
 	- position holding
 		- counter fire 
 			- expert counter fire
-### tactic
+ 
+#### tactic
 - starter tactic
 	- light gunner 
 		- reinforce light gunner
@@ -51,7 +63,8 @@
 	- melee tactician 
 		- melee master 
 			- expert melee master
-### precision (sniper)
+     
+#### precision (sniper)
 - starter precision
 	- sharpshooter
 		- reinforce sharpshooter
@@ -68,7 +81,8 @@
 	- hidden sniper 
 		- grip sniper 
 			- expert grip sniper
-### breech
+
+#### breech
 - starter breech
 	- heavy assault
 		- high caliber 
@@ -89,7 +103,8 @@
 	- bazooka holder
 		- expert bazooka holder
 			- explosive weapon master 
-### silent
+
+#### silent
 - starter silent
 	- agent
 		- spy 
@@ -106,7 +121,8 @@
 	- ninja
 		- ninja expert
 			- ninja master
-### support
+
+#### support
 - starter support
 	- recon
 		- recon commander 
@@ -127,7 +143,8 @@
 	- builder
 		- war constructor 
 			- expert war constructor
-### polyvalent
+
+#### polyvalent
 - starter polyvalent
 	- soldier
 		- heavy soldier 
