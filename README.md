@@ -34,7 +34,7 @@
 	- position holding
 		- counter fire 
 			- expert counter fire
-"## tactic
+## tactic
 - starter tactic
 	- light gunner 
 		- reinforce light gunner
