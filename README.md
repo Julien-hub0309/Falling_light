@@ -28,139 +28,38 @@
 
 ### arbre de craft des classes
 
-#### assaut
-- starter assaut
-	- general assaut 
-		- reinforce general assaut 
-			- expert general assaut
-	
-	- specialised assault 
-		- reinforce specialised assaut 
-			- expert specialised assaut
-	
-	- assaut recon 
-		- reinforce assaut recon 
-			- expert assaut recon
-	
-	- position holding
-		- counter fire 
-			- expert counter fire
- 
-#### tactic
-- starter tactic
-	- light gunner 
-		- reinforce light gunner
-			- expert light gunner
-	
-	- runner 
-		- reinforce runner
-			- expert runner
-	
-	- quick intervention 
-		- reinforce quick intervention
-			- expert quick intervention
-	
-	- melee tactician 
-		- melee master 
-			- expert melee master
-     
-#### precision (sniper)
-- starter precision
-	- sharpshooter
-		- reinforce sharpshooter
-			- expert sharpshooter
-	
-	- railgunner 
-		- reinforce railgunner
-			- expert railgunner
-	
-	- flawless 
-		- reinforce flawless
-			- expert flawless
-	
-	- hidden sniper 
-		- grip sniper 
-			- expert grip sniper
+1. L'Assaut (Frontline / Run & Gun)
+Le spécialiste du combat rapproché à moyen terme, pensé pour être constamment en mouvement et au contact.
 
-#### breech
-- starter breech
-	- heavy assault
-		- high caliber 
-			- expert high caliber
-	
-	- shotgunner 
-		- reinforce shotgunner
-			- expert shotgunner
-	
-	- war danger 
-		- heavy war danger
-			- expert war danger
-	
-	- wall destroyer 
-		- building demolisher 
-			- expert building demolisher
-	
-	- bazooka holder
-		- expert bazooka holder
-			- explosive weapon master 
+- Niveau 1 (Passif) - Sprint Amélioré : Vitesse de déplacement augmentée et rechargement plus rapide après un kill.
 
-#### silent
-- starter silent
-	- agent
-		- spy 
-			- spy master
-	
-	- sound maker 
-		- sound breaker
-			- expert sound breaker
-	
-	- sound searcher 
-		- expert sound searcher
-			- xray searcher
-	
-	- ninja
-		- ninja expert
-			- ninja master
+- Niveau 2 (Actif) - Grappin : Un grappin qui s'accorche a toute les structure.
 
-#### support
-- starter support
-	- recon
-		- recon commander 
-			- expert recon commander
-	
-	- engineer
-		- weapon engineer 
-			- expert war engineer
-	
-	- medic
-		- battle medic 
-			- expert medic field
-	
-	- protector
-		- heavy shield 
-			- expert heavy shield
-	
-	- builder
-		- war constructor 
-			- expert war constructor
+- Niveau 3 (Ultime) - Surchauffe : Augmente temporairement la cadence de tir, réduit le recul et régénère de la santé à chaque élimination.
 
-#### polyvalent
-- starter polyvalent
-	- soldier
-		- heavy soldier 
-			- heavy commander
-		
-		- light soldier 
-			- light commander
-	
-	- pilot 
-		- expert pilot
-			- pilot commander
-	
-	- weapon specialist 
-		- weapon expert
-			- weapon researcher
-	
-	- arms trafficker 
-		- weapon cartel commander
-			- chief weapon dealeur
+2. Le Breacher (Lourd / Démolition)
+Le rouleau compresseur conçu pour briser les lignes ennemies, percer les murs et contrôler les espaces.
+
+- Niveau 1 (Passif) - Armure Lourde : Réduction des dégâts explosifs subis et capacité à porter des armes lourdes sans pénalité de vitesse.
+
+- Niveau 2 (Actif) - Charge Explosive : Pose ou tire un projectile qui détruit instantanément les structures et sonne les ennemis à proximité.
+
+- Niveau 3 (Ultime) - Lance-Roquettes : Équipe une arme dévastatrice temporaire pour raser un point stratégique.
+
+3. Le Recon (Précision / Infiltration)
+Fusil de précision ou silencieux, il combine les branches « Precision » et « Silent » pour traquer et éliminer proprement.
+
+- Niveau 1 (Passif) - Silencieux & Détection : Vos tirs n'apparaissent pas sur la mini-carte. Détecte les pièges ennemis à travers les murs.
+
+- Niveau 2 (Actif) - Scan Radar : Lance une impulsion sonar pour révéler temporairement la position des ennemis dans un rayon défini.
+
+- Niveau 3 (Ultime) - Camouflage  : Devient quasiment invisible pendant quelques secondes.
+
+4. Le tactique (Soutien & Tactique)
+Indispensable pour maintenir l'équipe en vie et ravitailler le front.
+
+- Niveau 1 (Passif) - Sacoche d'armure/Soins : Déploie au sol des packs de soin ou de l'armure pour vous et vos alliés.
+
+- Niveau 2 (Actif) -  Bouclier Portatif : Pose une couverture déployable aborbant les dégâts.
+
+- Niveau 3 (Ultime) - Ranimation / Stym Pack : Possibilité de revenir dans la partie ou de refaire venir un de c'est allié.
